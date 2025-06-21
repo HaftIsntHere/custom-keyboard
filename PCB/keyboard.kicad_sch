@@ -5425,7 +5425,7 @@
 	)
 	(global_label "OLED 3V3"
 		(shape input)
-		(at 73.66 33.02 0)
+		(at 73.66 35.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5435,7 +5435,7 @@
 		)
 		(uuid "7a0f328d-a9ed-4af5-bf42-d6e8fb1524cb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 85.898 33.02 0)
+			(at 85.898 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
