@@ -33,3 +33,11 @@ Current case state:
 <img width="1128" alt="image" src="https://github.com/user-attachments/assets/c8dc96ba-8c8d-44b8-8238-0c6776a56f5d" />
 I took about 2 hours for the case itself. And it's not done yet (need coloring, cutouts and a few more refinements)
 **Total time working:** 5.5 hours 
+
+# June 22nd, 2025
+I changed the PCB once again, this time making it even slimmer and not bulky
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/a92ebd0e-e31e-49f0-a5a8-c02ac49d868a" />
+<img width="1230" alt="image" src="https://github.com/user-attachments/assets/960422e9-17e4-4a94-873d-3500f9273ada" /> <br>
+
+I'm very annoying at this point because I already changed the PCB twice and every time I have to redo the case, but, I mean, who am I to blame? The case looked bulky AF because of the PCB: <img width="849" alt="image" src="https://github.com/user-attachments/assets/9d7c984f-a6b6-47a4-a657-f6b79a7acb94" />
+This time, I'm going to make sure everything is slimmer so the keyboard doesnt look so bulky!
