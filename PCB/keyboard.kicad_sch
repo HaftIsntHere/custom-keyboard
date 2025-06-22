@@ -1971,12 +1971,6 @@
 		(uuid "204dc841-28b8-4ade-9682-522c46581cea")
 	)
 	(junction
-		(at 100.33 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "206d8b1b-ca1a-452c-b095-7ef2d5d8d1bd")
-	)
-	(junction
 		(at 146.05 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2511,12 +2505,6 @@
 		(uuid "c0d7cd5c-eb9e-424d-ba40-5bc79e4b71c3")
 	)
 	(junction
-		(at 243.84 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c194bd6e-0f9f-495d-8a8c-de4fc36da03d")
-	)
-	(junction
 		(at 175.26 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2607,12 +2595,6 @@
 		(uuid "d7def805-7786-4037-ad56-9c265a43b370")
 	)
 	(junction
-		(at 48.26 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d86d4ab4-7791-4898-9ec1-e0c4deb05335")
-	)
-	(junction
 		(at 181.61 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2665,12 +2647,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "df4a2e46-a700-46fd-9d4d-25b12212e842")
-	)
-	(junction
-		(at 238.76 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "df78a9f7-d3e0-48dd-bde0-3e3ba91f7040")
 	)
 	(junction
 		(at 193.04 39.37)
@@ -3124,7 +3100,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 52.07) (xy 243.84 52.07)
+			(xy 232.41 52.07) (xy 271.78 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3294,16 +3270,6 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 31.75) (xy 238.76 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "42144ead-9912-4b1b-9ee1-f96fddeb1abf")
-	)
-	(wire
-		(pts
 			(xy 179.07 110.49) (xy 181.61 110.49)
 		)
 		(stroke
@@ -3434,16 +3400,6 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 52.07) (xy 271.78 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4f613d16-fd49-4199-a068-f86e8c5cb94b")
-	)
-	(wire
-		(pts
 			(xy 118.11 74.93) (xy 118.11 92.71)
 		)
 		(stroke
@@ -3524,16 +3480,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 147.32) (xy 53.34 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5aea86a6-0ff5-4678-9d25-0376dd2e6e93")
-	)
-	(wire
-		(pts
 			(xy 201.93 92.71) (xy 201.93 110.49)
 		)
 		(stroke
@@ -3581,16 +3527,6 @@
 			(type default)
 		)
 		(uuid "619fe033-0c18-47a1-9abf-e91a6fe40d1a")
-	)
-	(wire
-		(pts
-			(xy 63.5 105.41) (xy 63.5 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61cd6d82-115c-4a6b-8ba2-300381953b72")
 	)
 	(wire
 		(pts
@@ -3681,16 +3617,6 @@
 			(type default)
 		)
 		(uuid "6a002e69-bdc0-4013-b086-89f0f71c9b81")
-	)
-	(wire
-		(pts
-			(xy 100.33 105.41) (xy 63.5 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e909e8c-d4dc-4ee2-8f4e-f008ed6a3deb")
 	)
 	(wire
 		(pts
@@ -4164,16 +4090,6 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 147.32) (xy 53.34 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a207312a-cec8-4b4b-baf9-fdc017a5e360")
-	)
-	(wire
-		(pts
 			(xy 129.54 52.07) (xy 140.97 52.07)
 		)
 		(stroke
@@ -4291,16 +4207,6 @@
 			(type default)
 		)
 		(uuid "a84a2069-2b40-4535-9668-c683e5fa147e")
-	)
-	(wire
-		(pts
-			(xy 238.76 39.37) (xy 238.76 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8540ca2-8b9b-4885-9e4e-d9c5525fe463")
 	)
 	(wire
 		(pts
@@ -4701,16 +4607,6 @@
 			(type default)
 		)
 		(uuid "da245940-59df-46f0-a99d-085cfae26f21")
-	)
-	(wire
-		(pts
-			(xy 48.26 147.32) (xy 48.26 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc290e42-2f21-4be0-8fab-f2096c66b2d1")
 	)
 	(wire
 		(pts
@@ -5442,7 +5338,7 @@
 	)
 	(global_label "Column 13"
 		(shape input)
-		(at 238.76 31.75 90)
+		(at 238.76 57.15 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5452,7 +5348,7 @@
 		)
 		(uuid "42c65f9e-a6f9-45c3-9524-6a27c6965baf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.76 18.3027 90)
+			(at 238.76 43.7027 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5596,7 +5492,7 @@
 	)
 	(global_label "Column 15"
 		(shape input)
-		(at 48.26 129.54 90)
+		(at 48.26 147.32 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5606,7 +5502,7 @@
 		)
 		(uuid "6d5b629d-110d-4151-89d5-02964957b016")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 48.26 116.0927 90)
+			(at 48.26 133.8727 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6264,7 +6160,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0195cee6-3f0a-47fd-85c2-2236875069ee")
-		(property "Reference" "D76"
+		(property "Reference" "D75"
 			(at 167.64 135.8899 90)
 			(effects
 				(font
@@ -6336,7 +6232,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D76")
+					(reference "D75")
 					(unit 1)
 				)
 			)
@@ -6352,7 +6248,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01979de0-ce8f-4a9c-8942-1f6d091a9405")
-		(property "Reference" "D27"
+		(property "Reference" "D26"
 			(at 234.95 64.7699 90)
 			(effects
 				(font
@@ -6424,7 +6320,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D27")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -6440,7 +6336,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "019dd44c-0093-4bfd-9861-0824cfe7fc1a")
-		(property "Reference" "D45"
+		(property "Reference" "D44"
 			(at 102.87 100.3299 90)
 			(effects
 				(font
@@ -6512,7 +6408,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D45")
+					(reference "D44")
 					(unit 1)
 				)
 			)
@@ -6528,7 +6424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01d5b72c-9d77-4742-afc7-2db4a0fd1119")
-		(property "Reference" "D52"
+		(property "Reference" "D51"
 			(at 186.69 100.3299 90)
 			(effects
 				(font
@@ -6600,7 +6496,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D52")
+					(reference "D51")
 					(unit 1)
 				)
 			)
@@ -6616,7 +6512,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0209cd22-0a17-4da8-96b2-57fc5dd6b90d")
-		(property "Reference" "D50"
+		(property "Reference" "D49"
 			(at 163.83 100.3299 90)
 			(effects
 				(font
@@ -6688,7 +6584,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D50")
+					(reference "D49")
 					(unit 1)
 				)
 			)
@@ -6704,7 +6600,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "055d0f36-04a2-424a-bd8a-17f79d1f8ef2")
-		(property "Reference" "S71"
+		(property "Reference" "S70"
 			(at 251.46 105.41 0)
 			(effects
 				(font
@@ -6756,7 +6652,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S71")
+					(reference "S70")
 					(unit 1)
 				)
 			)
@@ -6772,7 +6668,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "073c6ffb-9264-409c-88ac-b71b894b6b54")
-		(property "Reference" "S19"
+		(property "Reference" "S18"
 			(at 138.43 52.07 0)
 			(effects
 				(font
@@ -6824,7 +6720,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S19")
+					(reference "S18")
 					(unit 1)
 				)
 			)
@@ -6840,7 +6736,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07fefc74-f2a4-4034-a1a6-e1f135fc42ce")
-		(property "Reference" "D31"
+		(property "Reference" "D30"
 			(at 114.3 82.5499 90)
 			(effects
 				(font
@@ -6912,75 +6808,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 50.8 132.08 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0b72dfbe-4db0-4f3a-8182-0c00d8eb7992")
-		(property "Reference" "S84"
-			(at 50.8 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Keyswitch"
-			(at 50.8 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 50.8 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 50.8 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 50.8 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "02287e7b-24fb-468b-9e55-b5f3ba763406")
-		)
-		(pin "2"
-			(uuid "71932aa9-4344-44da-bc01-93338774e42e")
-		)
-		(instances
-			(project "keyboard"
-				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S84")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -7084,7 +6912,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c535f9b-3a01-4f71-bb57-f4240c4ca76c")
-		(property "Reference" "S80"
+		(property "Reference" "S79"
 			(at 240.03 123.19 0)
 			(effects
 				(font
@@ -7136,7 +6964,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S80")
+					(reference "S79")
 					(unit 1)
 				)
 			)
@@ -7152,7 +6980,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f4503e8-3920-40f1-a0c6-f5335fd2372e")
-		(property "Reference" "D69"
+		(property "Reference" "D68"
 			(at 223.52 118.1099 90)
 			(effects
 				(font
@@ -7224,7 +7052,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D69")
+					(reference "D68")
 					(unit 1)
 				)
 			)
@@ -7240,7 +7068,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11167733-8c17-47b8-b5bd-59d0c89438a6")
-		(property "Reference" "D63"
+		(property "Reference" "D62"
 			(at 154.94 118.1099 90)
 			(effects
 				(font
@@ -7312,7 +7140,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D63")
+					(reference "D62")
 					(unit 1)
 				)
 			)
@@ -7328,7 +7156,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "120c09ba-ecc5-48c6-a4c9-6e2767f9fa41")
-		(property "Reference" "S21"
+		(property "Reference" "S20"
 			(at 161.29 52.07 0)
 			(effects
 				(font
@@ -7380,7 +7208,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S21")
+					(reference "S20")
 					(unit 1)
 				)
 			)
@@ -7552,7 +7380,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13fb3bcf-8b6f-487c-a7c2-30c894e73cb5")
-		(property "Reference" "S44"
+		(property "Reference" "S43"
 			(at 262.89 69.85 0)
 			(effects
 				(font
@@ -7604,7 +7432,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S44")
+					(reference "S43")
 					(unit 1)
 				)
 			)
@@ -7688,7 +7516,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16ecd288-0b03-489f-bff6-11c4272ea2aa")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR01"
 			(at 254 19.05 0)
 			(effects
 				(font
@@ -7738,95 +7566,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 53.34 138.43 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "18ec5606-26dc-4350-974e-ef1f179788ba")
-		(property "Reference" "D84"
-			(at 55.88 137.1599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Diode"
-			(at 55.88 139.6999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
-			(at 53.34 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 53.34 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 53.34 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 53.34 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3b7583ed-67ee-4ffe-94b6-a5c372435ac1")
-		)
-		(pin "1"
-			(uuid "11806143-06ce-4511-9ecb-6644fe9df6f1")
-		)
-		(instances
-			(project "keyboard"
-				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D84")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -8018,7 +7758,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e1b96c1-a663-43cc-8904-4b82f57b5d81")
-		(property "Reference" "D54"
+		(property "Reference" "D53"
 			(at 209.55 100.3299 90)
 			(effects
 				(font
@@ -8090,7 +7830,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D54")
+					(reference "D53")
 					(unit 1)
 				)
 			)
@@ -8106,7 +7846,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2272b549-4c06-412c-b4d4-a562cbf072db")
-		(property "Reference" "D25"
+		(property "Reference" "D24"
 			(at 212.09 64.7699 90)
 			(effects
 				(font
@@ -8178,7 +7918,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D25")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -8194,7 +7934,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22fb4bab-c62a-45de-b185-0b6f6ad19203")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR02"
 			(at 260.35 30.48 0)
 			(effects
 				(font
@@ -8245,7 +7985,7 @@
 		(instances
 			(project ""
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "#PWR01")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -8261,7 +8001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23f0bd84-12e1-48d4-a071-830d2f96dcbc")
-		(property "Reference" "D80"
+		(property "Reference" "D79"
 			(at 245.11 135.8899 90)
 			(effects
 				(font
@@ -8333,7 +8073,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D80")
+					(reference "D79")
 					(unit 1)
 				)
 			)
@@ -8349,7 +8089,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24c7778e-ca9a-4443-a3ad-02cff0427315")
-		(property "Reference" "S35"
+		(property "Reference" "S34"
 			(at 154.94 69.85 0)
 			(effects
 				(font
@@ -8401,7 +8141,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S35")
+					(reference "S34")
 					(unit 1)
 				)
 			)
@@ -8417,7 +8157,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24c823d7-4fd8-44d4-ac8b-7dc07ee66060")
-		(property "Reference" "S74"
+		(property "Reference" "S73"
 			(at 104.14 123.19 0)
 			(effects
 				(font
@@ -8433,7 +8173,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.25u"
 			(at 104.14 130.81 0)
 			(effects
 				(font
@@ -8469,7 +8209,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S74")
+					(reference "S73")
 					(unit 1)
 				)
 			)
@@ -8485,7 +8225,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25356262-b29f-4f27-a713-3bfa17187f93")
-		(property "Reference" "S28"
+		(property "Reference" "S27"
 			(at 246.38 52.07 0)
 			(effects
 				(font
@@ -8501,7 +8241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.00u"
 			(at 246.38 59.69 0)
 			(effects
 				(font
@@ -8537,96 +8277,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 243.84 48.26 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2679a21f-ea22-4281-89e9-05fec19d88ba")
-		(property "Reference" "D14"
-			(at 246.38 48.2599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Diode"
-			(at 246.38 49.5299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
-			(at 243.84 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 243.84 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 243.84 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 243.84 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 243.84 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b2da0c9c-38a6-4782-ad55-cccbb64d85ef")
-		)
-		(pin "1"
-			(uuid "c2496459-c240-4c11-9fb2-0f9758bc1861")
-		)
-		(instances
-			(project "keyboard"
-				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D14")
+					(reference "S27")
 					(unit 1)
 				)
 			)
@@ -8642,7 +8293,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26c18d77-5664-47dc-9000-e451ea45aee6")
-		(property "Reference" "D68"
+		(property "Reference" "D67"
 			(at 212.09 118.1099 90)
 			(effects
 				(font
@@ -8714,7 +8365,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D68")
+					(reference "D67")
 					(unit 1)
 				)
 			)
@@ -8798,7 +8449,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2af40f6d-cbdd-442d-a170-937406e99021")
-		(property "Reference" "D16"
+		(property "Reference" "D15"
 			(at 109.22 64.7699 90)
 			(effects
 				(font
@@ -8870,7 +8521,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D16")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -8886,7 +8537,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c5ec770-72f3-457a-b6f9-8ccb56f7f4f0")
-		(property "Reference" "D79"
+		(property "Reference" "D78"
 			(at 233.68 135.8899 90)
 			(effects
 				(font
@@ -8958,7 +8609,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D79")
+					(reference "D78")
 					(unit 1)
 				)
 			)
@@ -9062,7 +8713,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2fffc63e-cd43-4b32-9ee4-bbbe1ba23a63")
-		(property "Reference" "D23"
+		(property "Reference" "D22"
 			(at 189.23 64.7699 90)
 			(effects
 				(font
@@ -9134,7 +8785,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D23")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -9150,7 +8801,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31bd8ef8-efab-454c-968c-b211e8f3fe57")
-		(property "Reference" "D43"
+		(property "Reference" "D42"
 			(at 254 82.5499 90)
 			(effects
 				(font
@@ -9222,7 +8873,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D43")
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -9238,12 +8889,13 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32651692-7d95-4792-84d9-0e86855457c3")
-		(property "Reference" "S85"
+		(property "Reference" "S82"
 			(at 50.8 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "Keyswitch"
@@ -9252,6 +8904,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
@@ -9290,7 +8943,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S85")
+					(reference "S82")
 					(unit 1)
 				)
 			)
@@ -9306,7 +8959,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34643bc4-950c-4463-8f3c-f7c3d52a387e")
-		(property "Reference" "D70"
+		(property "Reference" "D69"
 			(at 240.03 118.1099 90)
 			(effects
 				(font
@@ -9378,7 +9031,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D70")
+					(reference "D69")
 					(unit 1)
 				)
 			)
@@ -9394,7 +9047,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35a80235-b76f-4e8f-b7e6-bb08b6d96a5e")
-		(property "Reference" "S64"
+		(property "Reference" "S63"
 			(at 161.29 105.41 0)
 			(effects
 				(font
@@ -9446,7 +9099,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S64")
+					(reference "S63")
 					(unit 1)
 				)
 			)
@@ -9462,7 +9115,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39ca516a-757c-46db-a95e-ccaa461d7f17")
-		(property "Reference" "S27"
+		(property "Reference" "S26"
 			(at 229.87 52.07 0)
 			(effects
 				(font
@@ -9514,7 +9167,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S27")
+					(reference "S26")
 					(unit 1)
 				)
 			)
@@ -9530,7 +9183,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b5df675-ac9b-4e7d-8a7a-65599433054a")
-		(property "Reference" "D57"
+		(property "Reference" "D56"
 			(at 250.19 100.3299 90)
 			(effects
 				(font
@@ -9602,7 +9255,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D57")
+					(reference "D56")
 					(unit 1)
 				)
 			)
@@ -9774,7 +9427,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "401a2d85-5ad7-4620-b0da-307765ac118b")
-		(property "Reference" "D17"
+		(property "Reference" "D16"
 			(at 120.65 64.7699 90)
 			(effects
 				(font
@@ -9846,7 +9499,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D17")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -9862,7 +9515,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "417297ef-f132-458f-b717-db54503a37eb")
-		(property "Reference" "S60"
+		(property "Reference" "S59"
 			(at 115.57 105.41 0)
 			(effects
 				(font
@@ -9878,7 +9531,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_6.25u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 115.57 113.03 0)
 			(effects
 				(font
@@ -9914,7 +9567,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S60")
+					(reference "S59")
 					(unit 1)
 				)
 			)
@@ -9930,7 +9583,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43212670-a86a-43bf-9dd3-1355c0ac6aff")
-		(property "Reference" "S51"
+		(property "Reference" "S50"
 			(at 170.18 87.63 0)
 			(effects
 				(font
@@ -9946,7 +9599,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 170.18 95.25 0)
 			(effects
 				(font
@@ -9982,7 +9635,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S51")
+					(reference "S50")
 					(unit 1)
 				)
 			)
@@ -9998,7 +9651,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45a7fd5c-c09b-4cc7-ac01-8f1a3f5d7794")
-		(property "Reference" "S16"
+		(property "Reference" "S15"
 			(at 104.14 52.07 0)
 			(effects
 				(font
@@ -10050,7 +9703,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S16")
+					(reference "S15")
 					(unit 1)
 				)
 			)
@@ -10066,7 +9719,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4613ddf0-3721-40ad-915d-4a23bfbba7be")
-		(property "Reference" "S25"
+		(property "Reference" "S24"
 			(at 207.01 52.07 0)
 			(effects
 				(font
@@ -10118,7 +9771,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S25")
+					(reference "S24")
 					(unit 1)
 				)
 			)
@@ -10134,7 +9787,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "49d9a121-a616-4b4d-9b63-41bbb8b8c155")
-		(property "Reference" "S57"
+		(property "Reference" "S56"
 			(at 245.11 87.63 0)
 			(effects
 				(font
@@ -10150,7 +9803,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.25u"
 			(at 245.11 95.25 0)
 			(effects
 				(font
@@ -10186,7 +9839,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S57")
+					(reference "S56")
 					(unit 1)
 				)
 			)
@@ -10202,7 +9855,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4aba71d7-efd2-4885-be01-9c9877ec10b7")
-		(property "Reference" "S61"
+		(property "Reference" "S60"
 			(at 127 105.41 0)
 			(effects
 				(font
@@ -10218,7 +9871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.25u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 127 113.03 0)
 			(effects
 				(font
@@ -10254,7 +9907,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S61")
+					(reference "S60")
 					(unit 1)
 				)
 			)
@@ -10270,7 +9923,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ec45f4c-ca1e-4069-ba66-fe763339276e")
-		(property "Reference" "S42"
+		(property "Reference" "S41"
 			(at 234.95 69.85 0)
 			(effects
 				(font
@@ -10322,7 +9975,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S42")
+					(reference "S41")
 					(unit 1)
 				)
 			)
@@ -10426,7 +10079,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ef2b639-8f67-4562-8ac1-a086f053e80b")
-		(property "Reference" "D47"
+		(property "Reference" "D46"
 			(at 129.54 100.3299 90)
 			(effects
 				(font
@@ -10498,7 +10151,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D47")
+					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -10514,7 +10167,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51410e4c-327c-493c-a4e8-20695c8bc7c4")
-		(property "Reference" "S23"
+		(property "Reference" "S22"
 			(at 184.15 52.07 0)
 			(effects
 				(font
@@ -10566,7 +10219,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S23")
+					(reference "S22")
 					(unit 1)
 				)
 			)
@@ -10582,7 +10235,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52266eb5-00c1-4fe3-b1a1-cb5436fba9a6")
-		(property "Reference" "S49"
+		(property "Reference" "S48"
 			(at 147.32 87.63 0)
 			(effects
 				(font
@@ -10634,7 +10287,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S49")
+					(reference "S48")
 					(unit 1)
 				)
 			)
@@ -10650,7 +10303,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5232f270-cbfb-4843-8058-05a0b9a07535")
-		(property "Reference" "S82"
+		(property "Reference" "S81"
 			(at 262.89 123.19 0)
 			(effects
 				(font
@@ -10702,7 +10355,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S82")
+					(reference "S81")
 					(unit 1)
 				)
 			)
@@ -10718,7 +10371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52af36f2-a256-4ccd-84ed-6eebbca1e344")
-		(property "Reference" "D18"
+		(property "Reference" "D17"
 			(at 132.08 64.7699 90)
 			(effects
 				(font
@@ -10790,7 +10443,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D18")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -10806,7 +10459,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "533753a5-4f1b-4042-8801-8edb8f291ad8")
-		(property "Reference" "S36"
+		(property "Reference" "S35"
 			(at 166.37 69.85 0)
 			(effects
 				(font
@@ -10858,7 +10511,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S36")
+					(reference "S35")
 					(unit 1)
 				)
 			)
@@ -10874,7 +10527,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54cb930c-8229-4d71-a53b-92c03b49d555")
-		(property "Reference" "S55"
+		(property "Reference" "S54"
 			(at 215.9 87.63 0)
 			(effects
 				(font
@@ -10926,7 +10579,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S55")
+					(reference "S54")
 					(unit 1)
 				)
 			)
@@ -11030,7 +10683,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "553348c3-4c80-41b3-839a-475e46a47940")
-		(property "Reference" "D42"
+		(property "Reference" "D41"
 			(at 240.03 82.5499 90)
 			(effects
 				(font
@@ -11102,7 +10755,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D42")
+					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -11118,7 +10771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59586ecd-271d-4e74-916a-1dba00afc872")
-		(property "Reference" "D29"
+		(property "Reference" "D28"
 			(at 267.97 64.7699 90)
 			(effects
 				(font
@@ -11190,7 +10843,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D29")
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -11206,7 +10859,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5aad3f98-0a17-43d8-a580-e7e2b86ecb74")
-		(property "Reference" "S62"
+		(property "Reference" "S61"
 			(at 138.43 105.41 0)
 			(effects
 				(font
@@ -11222,7 +10875,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.25u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 138.43 113.03 0)
 			(effects
 				(font
@@ -11258,7 +10911,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S62")
+					(reference "S61")
 					(unit 1)
 				)
 			)
@@ -11351,7 +11004,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60667f63-5664-4f3c-8233-9fc6d8a61828")
-		(property "Reference" "D59"
+		(property "Reference" "D58"
 			(at 104.14 118.1099 90)
 			(effects
 				(font
@@ -11423,7 +11076,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D59")
+					(reference "D58")
 					(unit 1)
 				)
 			)
@@ -11439,7 +11092,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "636ee228-38b5-4400-b9f0-5ae4c1c42f68")
-		(property "Reference" "S70"
+		(property "Reference" "S69"
 			(at 234.95 105.41 0)
 			(effects
 				(font
@@ -11455,7 +11108,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.00u"
 			(at 234.95 113.03 0)
 			(effects
 				(font
@@ -11491,7 +11144,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S70")
+					(reference "S69")
 					(unit 1)
 				)
 			)
@@ -11507,7 +11160,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65a30329-2a83-4492-80f9-ec6b0f32a2fe")
-		(property "Reference" "D38"
+		(property "Reference" "D37"
 			(at 194.31 82.5499 90)
 			(effects
 				(font
@@ -11579,7 +11232,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D38")
+					(reference "D37")
 					(unit 1)
 				)
 			)
@@ -11595,7 +11248,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6603f34a-fd45-42d1-bf2c-6f94d4f646f9")
-		(property "Reference" "S33"
+		(property "Reference" "S32"
 			(at 132.08 69.85 0)
 			(effects
 				(font
@@ -11647,7 +11300,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S33")
+					(reference "S32")
 					(unit 1)
 				)
 			)
@@ -11739,7 +11392,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66e470fb-e7c2-4f86-8b1b-16124afcc6dc")
-		(property "Reference" "S75"
+		(property "Reference" "S74"
 			(at 118.11 123.19 0)
 			(effects
 				(font
@@ -11755,7 +11408,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.25u"
 			(at 118.11 130.81 0)
 			(effects
 				(font
@@ -11791,7 +11444,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S75")
+					(reference "S74")
 					(unit 1)
 				)
 			)
@@ -11807,7 +11460,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67bfd9a0-8a93-44b5-8c7e-2faff3fbf7c5")
-		(property "Reference" "S41"
+		(property "Reference" "S40"
 			(at 223.52 69.85 0)
 			(effects
 				(font
@@ -11859,7 +11512,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S41")
+					(reference "S40")
 					(unit 1)
 				)
 			)
@@ -11875,7 +11528,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "683c5871-65c6-4c74-a0a0-a3c0b93ca23d")
-		(property "Reference" "S65"
+		(property "Reference" "S64"
 			(at 172.72 105.41 0)
 			(effects
 				(font
@@ -11927,7 +11580,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S65")
+					(reference "S64")
 					(unit 1)
 				)
 			)
@@ -11943,7 +11596,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "69572138-db8f-4092-b977-b17cda461a4c")
-		(property "Reference" "D30"
+		(property "Reference" "D29"
 			(at 100.33 82.5499 90)
 			(effects
 				(font
@@ -12015,7 +11668,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D30")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -12031,7 +11684,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a9fd81b-ebf8-42bc-a086-636f68c8853a")
-		(property "Reference" "D40"
+		(property "Reference" "D39"
 			(at 217.17 82.5499 90)
 			(effects
 				(font
@@ -12103,7 +11756,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D40")
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -12119,7 +11772,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6aa5ef13-5189-4edf-a273-15c12e54b65e")
-		(property "Reference" "D48"
+		(property "Reference" "D47"
 			(at 140.97 100.3299 90)
 			(effects
 				(font
@@ -12191,7 +11844,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D48")
+					(reference "D47")
 					(unit 1)
 				)
 			)
@@ -12207,7 +11860,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6aaec0c9-ea5f-4ab0-9d39-185eeb0cb77f")
-		(property "Reference" "S48"
+		(property "Reference" "S47"
 			(at 135.89 87.63 0)
 			(effects
 				(font
@@ -12259,7 +11912,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S48")
+					(reference "S47")
 					(unit 1)
 				)
 			)
@@ -12363,7 +12016,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "706255af-cf69-49cd-a829-36ebb3b61b11")
-		(property "Reference" "S67"
+		(property "Reference" "S66"
 			(at 195.58 105.41 0)
 			(effects
 				(font
@@ -12415,7 +12068,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S67")
+					(reference "S66")
 					(unit 1)
 				)
 			)
@@ -12431,7 +12084,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7156f4b9-3ad9-4a2d-8642-0d53ddd7853d")
-		(property "Reference" "D58"
+		(property "Reference" "D57"
 			(at 267.97 100.3299 90)
 			(effects
 				(font
@@ -12503,7 +12156,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D58")
+					(reference "D57")
 					(unit 1)
 				)
 			)
@@ -12519,7 +12172,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "733d4a4c-7230-4635-809c-a81b9543a362")
-		(property "Reference" "S29"
+		(property "Reference" "S28"
 			(at 262.89 52.07 0)
 			(effects
 				(font
@@ -12535,7 +12188,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 262.89 59.69 0)
 			(effects
 				(font
@@ -12571,7 +12224,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S29")
+					(reference "S28")
 					(unit 1)
 				)
 			)
@@ -12587,7 +12240,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "760d18a5-b85e-455f-9392-704ebb902ba2")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR03"
 			(at 288.29 33.02 0)
 			(effects
 				(font
@@ -12638,7 +12291,7 @@
 		(instances
 			(project ""
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "#PWR02")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -12722,7 +12375,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77c84a4d-d41f-487b-b3bd-d956735701fa")
-		(property "Reference" "D71"
+		(property "Reference" "D70"
 			(at 256.54 118.1099 90)
 			(effects
 				(font
@@ -12794,7 +12447,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D71")
+					(reference "D70")
 					(unit 1)
 				)
 			)
@@ -12878,7 +12531,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "791fca3f-a08d-4076-bad9-ccfaaf9c2673")
-		(property "Reference" "S81"
+		(property "Reference" "S80"
 			(at 251.46 123.19 0)
 			(effects
 				(font
@@ -12930,7 +12583,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S81")
+					(reference "S80")
 					(unit 1)
 				)
 			)
@@ -12946,7 +12599,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7936b214-9d99-444a-bf2b-654fd84dc232")
-		(property "Reference" "D64"
+		(property "Reference" "D63"
 			(at 166.37 118.1099 90)
 			(effects
 				(font
@@ -13018,7 +12671,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D64")
+					(reference "D63")
 					(unit 1)
 				)
 			)
@@ -13034,7 +12687,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7af164dc-006d-471c-8ad7-2eb51de03637")
-		(property "Reference" "S37"
+		(property "Reference" "S36"
 			(at 177.8 69.85 0)
 			(effects
 				(font
@@ -13050,7 +12703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.75u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 177.8 77.47 0)
 			(effects
 				(font
@@ -13086,7 +12739,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S37")
+					(reference "S36")
 					(unit 1)
 				)
 			)
@@ -13102,7 +12755,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d9888f0-1655-4acb-a669-d2fc2d237b38")
-		(property "Reference" "S78"
+		(property "Reference" "S77"
 			(at 217.17 123.19 0)
 			(effects
 				(font
@@ -13154,7 +12807,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S78")
+					(reference "S77")
 					(unit 1)
 				)
 			)
@@ -13170,7 +12823,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e79e9da-bbe5-4a79-a5de-4284a49662f8")
-		(property "Reference" "D53"
+		(property "Reference" "D52"
 			(at 198.12 100.3299 90)
 			(effects
 				(font
@@ -13242,7 +12895,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D53")
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -13258,7 +12911,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f4de9c5-6e35-4959-8c38-58b81ee8b7aa")
-		(property "Reference" "S73"
+		(property "Reference" "S72"
 			(at 90.17 123.19 0)
 			(effects
 				(font
@@ -13274,7 +12927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.25u"
 			(at 90.17 130.81 0)
 			(effects
 				(font
@@ -13310,7 +12963,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S73")
+					(reference "S72")
 					(unit 1)
 				)
 			)
@@ -13326,7 +12979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "812dd85e-8c04-4a5c-87a7-394e76ee8d17")
-		(property "Reference" "S39"
+		(property "Reference" "S38"
 			(at 200.66 69.85 0)
 			(effects
 				(font
@@ -13342,7 +12995,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.50u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 200.66 77.47 0)
 			(effects
 				(font
@@ -13378,7 +13031,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S39")
+					(reference "S38")
 					(unit 1)
 				)
 			)
@@ -13394,7 +13047,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "820ed9ca-ea67-4f4a-938e-59d033e615c7")
-		(property "Reference" "D46"
+		(property "Reference" "D45"
 			(at 118.11 100.3299 90)
 			(effects
 				(font
@@ -13466,7 +13119,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D46")
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -13482,7 +13135,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "834cf3a9-03c4-4334-8b03-dc6c829c2b24")
-		(property "Reference" "D22"
+		(property "Reference" "D21"
 			(at 177.8 64.7699 90)
 			(effects
 				(font
@@ -13554,7 +13207,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D22")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -13570,7 +13223,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8553adde-3b92-4a86-ab8b-2f31c09586a5")
-		(property "Reference" "S63"
+		(property "Reference" "S62"
 			(at 149.86 105.41 0)
 			(effects
 				(font
@@ -13586,7 +13239,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.25u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 149.86 113.03 0)
 			(effects
 				(font
@@ -13622,7 +13275,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S63")
+					(reference "S62")
 					(unit 1)
 				)
 			)
@@ -13726,7 +13379,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "862c1668-5ac5-4cef-943f-ac1056ced17e")
-		(property "Reference" "D74"
+		(property "Reference" "D73"
 			(at 109.22 135.8899 90)
 			(effects
 				(font
@@ -13798,7 +13451,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D74")
+					(reference "D73")
 					(unit 1)
 				)
 			)
@@ -13814,7 +13467,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88892da3-d2b0-4a8c-9cb2-5a1dba1075a6")
-		(property "Reference" "D39"
+		(property "Reference" "D38"
 			(at 205.74 82.5499 90)
 			(effects
 				(font
@@ -13886,7 +13539,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D39")
+					(reference "D38")
 					(unit 1)
 				)
 			)
@@ -13902,7 +13555,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89331dbc-5ff5-492f-982c-5425a9402684")
-		(property "Reference" "S47"
+		(property "Reference" "S46"
 			(at 124.46 87.63 0)
 			(effects
 				(font
@@ -13954,75 +13607,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S47")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 241.3 41.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8975355c-8053-4bcf-a38f-a9fe11f8f300")
-		(property "Reference" "S14"
-			(at 241.3 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Keyswitch"
-			(at 241.3 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 241.3 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 241.3 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 241.3 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "787a2a30-4e6f-4a53-981b-84cc39991439")
-		)
-		(pin "2"
-			(uuid "4104dfb5-d41b-4d56-81f6-795a135e71c5")
-		)
-		(instances
-			(project "keyboard"
-				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S14")
+					(reference "S46")
 					(unit 1)
 				)
 			)
@@ -14038,7 +13623,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9240582a-b4f9-42dc-b92b-5ab16fcda620")
-		(property "Reference" "D32"
+		(property "Reference" "D31"
 			(at 125.73 82.5499 90)
 			(effects
 				(font
@@ -14110,7 +13695,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D32")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -14126,7 +13711,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95a16ff7-3c17-41ce-a180-42458bd77cd8")
-		(property "Reference" "S50"
+		(property "Reference" "S49"
 			(at 158.75 87.63 0)
 			(effects
 				(font
@@ -14178,7 +13763,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S50")
+					(reference "S49")
 					(unit 1)
 				)
 			)
@@ -14194,7 +13779,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95ae088f-83ef-4ae2-ba8d-dd4e5b733451")
-		(property "Reference" "S68"
+		(property "Reference" "S67"
 			(at 207.01 105.41 0)
 			(effects
 				(font
@@ -14246,7 +13831,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S68")
+					(reference "S67")
 					(unit 1)
 				)
 			)
@@ -14262,7 +13847,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9631fdee-b7cb-4af0-b9bb-146449425f7d")
-		(property "Reference" "D85"
+		(property "Reference" "D82"
 			(at 55.88 154.9399 90)
 			(effects
 				(font
@@ -14334,7 +13919,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D85")
+					(reference "D82")
 					(unit 1)
 				)
 			)
@@ -14350,7 +13935,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a2e0b18-1aa4-4d85-90a5-a40025ab5b38")
-		(property "Reference" "D34"
+		(property "Reference" "D33"
 			(at 148.59 82.5499 90)
 			(effects
 				(font
@@ -14422,7 +14007,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D34")
+					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -14506,7 +14091,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d01a6ee-1f8d-49a2-84fa-947d57178ac0")
-		(property "Reference" "D72"
+		(property "Reference" "D71"
 			(at 267.97 118.1099 90)
 			(effects
 				(font
@@ -14578,7 +14163,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D72")
+					(reference "D71")
 					(unit 1)
 				)
 			)
@@ -14609,6 +14194,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "PCM_Espressif:ESP32-S3-DevKitC"
@@ -14789,7 +14375,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a09c7b4f-2626-437d-9453-e927d1bc2cf2")
-		(property "Reference" "S53"
+		(property "Reference" "S52"
 			(at 193.04 87.63 0)
 			(effects
 				(font
@@ -14805,7 +14391,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.25u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 193.04 95.25 0)
 			(effects
 				(font
@@ -14841,7 +14427,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S53")
+					(reference "S52")
 					(unit 1)
 				)
 			)
@@ -14857,7 +14443,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1bb43c6-70b6-406c-871a-b4f5f209fd7e")
-		(property "Reference" "D66"
+		(property "Reference" "D65"
 			(at 189.23 118.1099 90)
 			(effects
 				(font
@@ -14929,7 +14515,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D66")
+					(reference "D65")
 					(unit 1)
 				)
 			)
@@ -14945,7 +14531,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2bcedf6-1c17-4217-9ec4-537ff440c4b5")
-		(property "Reference" "D41"
+		(property "Reference" "D40"
 			(at 228.6 82.5499 90)
 			(effects
 				(font
@@ -15017,7 +14603,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D41")
+					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -15033,7 +14619,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3eb055c-bb09-4db2-8e16-f3c0f64acb52")
-		(property "Reference" "D55"
+		(property "Reference" "D54"
 			(at 220.98 100.3299 90)
 			(effects
 				(font
@@ -15105,7 +14691,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D55")
+					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -15121,7 +14707,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a59ef387-8930-449f-95c8-f3e1767a63c6")
-		(property "Reference" "D78"
+		(property "Reference" "D77"
 			(at 222.25 135.8899 90)
 			(effects
 				(font
@@ -15193,7 +14779,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D78")
+					(reference "D77")
 					(unit 1)
 				)
 			)
@@ -15209,7 +14795,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5a6aba2-f48d-4a2e-9764-6258b4e823af")
-		(property "Reference" "S34"
+		(property "Reference" "S33"
 			(at 143.51 69.85 0)
 			(effects
 				(font
@@ -15261,7 +14847,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S34")
+					(reference "S33")
 					(unit 1)
 				)
 			)
@@ -15277,7 +14863,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a67c81e0-2497-40dc-aa70-cc3f7cdde5b6")
-		(property "Reference" "D62"
+		(property "Reference" "D61"
 			(at 143.51 118.1099 90)
 			(effects
 				(font
@@ -15349,7 +14935,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D62")
+					(reference "D61")
 					(unit 1)
 				)
 			)
@@ -15365,7 +14951,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a74b8ee5-5484-4e3d-bd12-96ae86f99a33")
-		(property "Reference" "D24"
+		(property "Reference" "D23"
 			(at 200.66 64.7699 90)
 			(effects
 				(font
@@ -15437,7 +15023,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D24")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -15453,7 +15039,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7ca86e2-394b-4cdb-b6d9-8a6793142ee3")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR04"
 			(at 39.37 113.03 0)
 			(effects
 				(font
@@ -15503,7 +15089,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "#PWR011")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -15519,7 +15105,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7f0db0d-44f6-4ee7-9825-86f12f70441d")
-		(property "Reference" "S17"
+		(property "Reference" "S16"
 			(at 115.57 52.07 0)
 			(effects
 				(font
@@ -15571,7 +15157,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S17")
+					(reference "S16")
 					(unit 1)
 				)
 			)
@@ -15587,7 +15173,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8ba4fd9-0889-4ce2-a0a3-79a819c3712b")
-		(property "Reference" "S76"
+		(property "Reference" "S75"
 			(at 162.56 123.19 0)
 			(effects
 				(font
@@ -15603,7 +15189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_6.25u"
 			(at 162.56 130.81 0)
 			(effects
 				(font
@@ -15639,7 +15225,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S76")
+					(reference "S75")
 					(unit 1)
 				)
 			)
@@ -15655,7 +15241,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad084185-eb0e-45d9-93c6-3aac28150907")
-		(property "Reference" "S54"
+		(property "Reference" "S53"
 			(at 204.47 87.63 0)
 			(effects
 				(font
@@ -15707,7 +15293,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S54")
+					(reference "S53")
 					(unit 1)
 				)
 			)
@@ -15723,7 +15309,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad748ae0-1e03-4fbc-95e7-3c57c76567be")
-		(property "Reference" "S24"
+		(property "Reference" "S23"
 			(at 195.58 52.07 0)
 			(effects
 				(font
@@ -15775,7 +15361,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S24")
+					(reference "S23")
 					(unit 1)
 				)
 			)
@@ -15791,7 +15377,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad80d834-7ef1-4afa-9aec-3368d650b279")
-		(property "Reference" "D86"
+		(property "Reference" "D83"
 			(at 55.88 172.7199 90)
 			(effects
 				(font
@@ -15863,7 +15449,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D86")
+					(reference "D83")
 					(unit 1)
 				)
 			)
@@ -15879,7 +15465,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae25123a-3778-4bab-9c78-24b21f8603e5")
-		(property "Reference" "D51"
+		(property "Reference" "D50"
 			(at 175.26 100.3299 90)
 			(effects
 				(font
@@ -15951,7 +15537,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D51")
+					(reference "D50")
 					(unit 1)
 				)
 			)
@@ -15967,7 +15553,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae43bc60-9a56-4901-86b3-ab1caf9371e2")
-		(property "Reference" "S66"
+		(property "Reference" "S65"
 			(at 184.15 105.41 0)
 			(effects
 				(font
@@ -15983,7 +15569,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 184.15 113.03 0)
 			(effects
 				(font
@@ -16019,7 +15605,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S66")
+					(reference "S65")
 					(unit 1)
 				)
 			)
@@ -16103,7 +15689,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae7a657a-0821-4c77-9132-528918c2979a")
-		(property "Reference" "D26"
+		(property "Reference" "D25"
 			(at 223.52 64.7699 90)
 			(effects
 				(font
@@ -16175,7 +15761,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D26")
+					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -16191,7 +15777,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af0f25fd-e27b-44d5-9f13-bbb001cfcd4f")
-		(property "Reference" "S72"
+		(property "Reference" "S71"
 			(at 262.89 105.41 0)
 			(effects
 				(font
@@ -16243,7 +15829,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S72")
+					(reference "S71")
 					(unit 1)
 				)
 			)
@@ -16259,7 +15845,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0080351-991d-4613-a017-dbe08240053b")
-		(property "Reference" "S69"
+		(property "Reference" "S68"
 			(at 218.44 105.41 0)
 			(effects
 				(font
@@ -16311,7 +15897,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S69")
+					(reference "S68")
 					(unit 1)
 				)
 			)
@@ -16327,7 +15913,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2215a6b-e190-4939-87ad-5f01b9c7388e")
-		(property "Reference" "D61"
+		(property "Reference" "D60"
 			(at 132.08 118.1099 90)
 			(effects
 				(font
@@ -16399,7 +15985,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D61")
+					(reference "D60")
 					(unit 1)
 				)
 			)
@@ -16415,7 +16001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b24d58e2-17af-4d7e-958a-a3f54295b3f5")
-		(property "Reference" "D36"
+		(property "Reference" "D35"
 			(at 171.45 82.5499 90)
 			(effects
 				(font
@@ -16487,7 +16073,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D36")
+					(reference "D35")
 					(unit 1)
 				)
 			)
@@ -16503,7 +16089,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4c3b411-ad20-4189-b162-368e142d5acd")
-		(property "Reference" "S15"
+		(property "Reference" "S14"
 			(at 92.71 52.07 0)
 			(effects
 				(font
@@ -16555,7 +16141,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S15")
+					(reference "S14")
 					(unit 1)
 				)
 			)
@@ -16571,7 +16157,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b88fbafb-0a5b-494f-b5c1-34cb96aed05e")
-		(property "Reference" "S43"
+		(property "Reference" "S42"
 			(at 248.92 69.85 0)
 			(effects
 				(font
@@ -16587,7 +16173,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.50u"
 			(at 248.92 77.47 0)
 			(effects
 				(font
@@ -16623,7 +16209,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S43")
+					(reference "S42")
 					(unit 1)
 				)
 			)
@@ -16639,7 +16225,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b93cc7a3-64e5-40b8-90af-ef6458538de2")
-		(property "Reference" "D65"
+		(property "Reference" "D64"
 			(at 177.8 118.1099 90)
 			(effects
 				(font
@@ -16711,7 +16297,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D65")
+					(reference "D64")
 					(unit 1)
 				)
 			)
@@ -16727,7 +16313,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "baeabd8e-11e2-4846-841b-41561d67c3f5")
-		(property "Reference" "D67"
+		(property "Reference" "D66"
 			(at 200.66 118.1099 90)
 			(effects
 				(font
@@ -16799,7 +16385,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D67")
+					(reference "D66")
 					(unit 1)
 				)
 			)
@@ -16883,7 +16469,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf00b3e4-d495-487e-aef5-c3b1868f2a7f")
-		(property "Reference" "D33"
+		(property "Reference" "D32"
 			(at 137.16 82.5499 90)
 			(effects
 				(font
@@ -16955,7 +16541,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D33")
+					(reference "D32")
 					(unit 1)
 				)
 			)
@@ -17039,7 +16625,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3af2043-c346-40db-8d73-0daaeac9329c")
-		(property "Reference" "S18"
+		(property "Reference" "S17"
 			(at 127 52.07 0)
 			(effects
 				(font
@@ -17091,7 +16677,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S18")
+					(reference "S17")
 					(unit 1)
 				)
 			)
@@ -17107,7 +16693,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5ecf17f-f060-426e-8b90-64a682db3994")
-		(property "Reference" "S26"
+		(property "Reference" "S25"
 			(at 218.44 52.07 0)
 			(effects
 				(font
@@ -17159,7 +16745,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S26")
+					(reference "S25")
 					(unit 1)
 				)
 			)
@@ -17175,7 +16761,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5f15604-2d7d-4a99-a159-92949bfa7d5d")
-		(property "Reference" "S77"
+		(property "Reference" "S76"
 			(at 205.74 123.19 0)
 			(effects
 				(font
@@ -17227,7 +16813,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S77")
+					(reference "S76")
 					(unit 1)
 				)
 			)
@@ -17243,7 +16829,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c620c1e8-7274-4ff7-849c-07107fad399a")
-		(property "Reference" "D21"
+		(property "Reference" "D20"
 			(at 166.37 64.7699 90)
 			(effects
 				(font
@@ -17315,7 +16901,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D21")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -17487,7 +17073,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c82cbc9d-8f28-4868-8ea1-c439b11122cb")
-		(property "Reference" "S56"
+		(property "Reference" "S55"
 			(at 227.33 87.63 0)
 			(effects
 				(font
@@ -17539,7 +17125,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S56")
+					(reference "S55")
 					(unit 1)
 				)
 			)
@@ -17555,7 +17141,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9c4b57c-81c2-46f4-9d0b-ceae1d86e436")
-		(property "Reference" "D28"
+		(property "Reference" "D27"
 			(at 251.46 64.7699 90)
 			(effects
 				(font
@@ -17627,7 +17213,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D28")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -17643,7 +17229,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb8e519a-dd07-4b4e-a87e-ae2b9df75ef6")
-		(property "Reference" "D73"
+		(property "Reference" "D72"
 			(at 95.25 135.8899 90)
 			(effects
 				(font
@@ -17715,7 +17301,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D73")
+					(reference "D72")
 					(unit 1)
 				)
 			)
@@ -17955,7 +17541,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d97195db-fbe3-42cd-9e7a-f9424d25a45d")
-		(property "Reference" "D44"
+		(property "Reference" "D43"
 			(at 267.97 82.5499 90)
 			(effects
 				(font
@@ -18027,7 +17613,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D44")
+					(reference "D43")
 					(unit 1)
 				)
 			)
@@ -18043,7 +17629,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da0c803f-dd93-4fa5-9969-3adb1be2da94")
-		(property "Reference" "S86"
+		(property "Reference" "S83"
 			(at 50.8 160.02 0)
 			(effects
 				(font
@@ -18095,7 +17681,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S86")
+					(reference "S83")
 					(unit 1)
 				)
 			)
@@ -18111,7 +17697,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da828576-6320-45af-a6e4-acb55b76f8db")
-		(property "Reference" "S79"
+		(property "Reference" "S78"
 			(at 228.6 123.19 0)
 			(effects
 				(font
@@ -18163,7 +17749,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S79")
+					(reference "S78")
 					(unit 1)
 				)
 			)
@@ -18179,7 +17765,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dac27293-eb09-45eb-959f-264b54f91633")
-		(property "Reference" "D81"
+		(property "Reference" "D80"
 			(at 256.54 135.8899 90)
 			(effects
 				(font
@@ -18251,7 +17837,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D81")
+					(reference "D80")
 					(unit 1)
 				)
 			)
@@ -18267,7 +17853,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc2cfb78-c888-424c-84c2-804db3cd5e8c")
-		(property "Reference" "D75"
+		(property "Reference" "D74"
 			(at 123.19 135.8899 90)
 			(effects
 				(font
@@ -18339,7 +17925,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D75")
+					(reference "D74")
 					(unit 1)
 				)
 			)
@@ -18355,7 +17941,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "de1cc6ba-cde9-4287-8bce-4ae0945189ec")
-		(property "Reference" "D20"
+		(property "Reference" "D19"
 			(at 154.94 64.7699 90)
 			(effects
 				(font
@@ -18427,7 +18013,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D20")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -18443,7 +18029,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dec9f73e-8f3c-4ed4-b458-fb5bfa5cfcf3")
-		(property "Reference" "S20"
+		(property "Reference" "S19"
 			(at 149.86 52.07 0)
 			(effects
 				(font
@@ -18495,7 +18081,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S20")
+					(reference "S19")
 					(unit 1)
 				)
 			)
@@ -18511,7 +18097,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dfc7faae-caef-4518-80c3-9437e48faa67")
-		(property "Reference" "S58"
+		(property "Reference" "S57"
 			(at 262.89 87.63 0)
 			(effects
 				(font
@@ -18527,7 +18113,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.50u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 262.89 95.25 0)
 			(effects
 				(font
@@ -18563,7 +18149,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S58")
+					(reference "S57")
 					(unit 1)
 				)
 			)
@@ -18579,7 +18165,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e3f82563-849e-4365-beda-f02c8898f94a")
-		(property "Reference" "D19"
+		(property "Reference" "D18"
 			(at 143.51 64.7699 90)
 			(effects
 				(font
@@ -18651,7 +18237,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D19")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -18667,7 +18253,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4477e05-a956-4508-87d4-0272230ca2b5")
-		(property "Reference" "D49"
+		(property "Reference" "D48"
 			(at 152.4 100.3299 90)
 			(effects
 				(font
@@ -18739,7 +18325,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D49")
+					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -18755,7 +18341,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6ca2c08-bb9b-4059-91b0-6b55fc0fc162")
-		(property "Reference" "D35"
+		(property "Reference" "D34"
 			(at 160.02 82.5499 90)
 			(effects
 				(font
@@ -18827,7 +18413,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D35")
+					(reference "D34")
 					(unit 1)
 				)
 			)
@@ -18843,7 +18429,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6e7c276-17e1-4ba4-8544-d75f057ade98")
-		(property "Reference" "S32"
+		(property "Reference" "S31"
 			(at 120.65 69.85 0)
 			(effects
 				(font
@@ -18895,7 +18481,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S32")
+					(reference "S31")
 					(unit 1)
 				)
 			)
@@ -18911,7 +18497,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7506960-2693-41f1-acc0-4df2c025ad46")
-		(property "Reference" "D60"
+		(property "Reference" "D59"
 			(at 120.65 118.1099 90)
 			(effects
 				(font
@@ -18983,7 +18569,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D60")
+					(reference "D59")
 					(unit 1)
 				)
 			)
@@ -18999,7 +18585,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eafbcd0e-9af2-4c49-bcf5-a561545ceebd")
-		(property "Reference" "S40"
+		(property "Reference" "S39"
 			(at 212.09 69.85 0)
 			(effects
 				(font
@@ -19051,7 +18637,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S40")
+					(reference "S39")
 					(unit 1)
 				)
 			)
@@ -19067,7 +18653,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec07d040-7d73-4e48-9dc7-727936c623f7")
-		(property "Reference" "S38"
+		(property "Reference" "S37"
 			(at 189.23 69.85 0)
 			(effects
 				(font
@@ -19119,7 +18705,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S38")
+					(reference "S37")
 					(unit 1)
 				)
 			)
@@ -19135,7 +18721,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec56c04e-3ac7-4fa0-87d9-fe1ffba51e79")
-		(property "Reference" "S46"
+		(property "Reference" "S45"
 			(at 113.03 87.63 0)
 			(effects
 				(font
@@ -19187,7 +18773,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S46")
+					(reference "S45")
 					(unit 1)
 				)
 			)
@@ -19203,7 +18789,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef95f20f-44ed-471b-b31b-59cc400cb4f1")
-		(property "Reference" "S22"
+		(property "Reference" "S21"
 			(at 172.72 52.07 0)
 			(effects
 				(font
@@ -19255,7 +18841,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S22")
+					(reference "S21")
 					(unit 1)
 				)
 			)
@@ -19271,7 +18857,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0bfbf7c-c91b-41bd-ac74-d2476e16b5fb")
-		(property "Reference" "S31"
+		(property "Reference" "S30"
 			(at 109.22 69.85 0)
 			(effects
 				(font
@@ -19323,7 +18909,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S31")
+					(reference "S30")
 					(unit 1)
 				)
 			)
@@ -19427,7 +19013,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3f5ae4d-ff6b-4b24-ba3d-af5bcd94431b")
-		(property "Reference" "D82"
+		(property "Reference" "D81"
 			(at 267.97 135.8899 90)
 			(effects
 				(font
@@ -19499,7 +19085,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D82")
+					(reference "D81")
 					(unit 1)
 				)
 			)
@@ -19515,7 +19101,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5642cb4-214c-42c1-b90b-d556372ac24e")
-		(property "Reference" "D56"
+		(property "Reference" "D55"
 			(at 232.41 100.3299 90)
 			(effects
 				(font
@@ -19587,7 +19173,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D56")
+					(reference "D55")
 					(unit 1)
 				)
 			)
@@ -19603,7 +19189,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7ac3c25-7e9a-47f8-a09e-c764b06fe6fd")
-		(property "Reference" "D77"
+		(property "Reference" "D76"
 			(at 210.82 135.8899 90)
 			(effects
 				(font
@@ -19675,7 +19261,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D77")
+					(reference "D76")
 					(unit 1)
 				)
 			)
@@ -19691,7 +19277,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f935220e-6a03-4a41-bcec-1584c03b254b")
-		(property "Reference" "D15"
+		(property "Reference" "D14"
 			(at 97.79 64.7699 90)
 			(effects
 				(font
@@ -19763,7 +19349,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D15")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -19779,7 +19365,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc21b77f-06d8-47ff-9aa9-2a63819ac810")
-		(property "Reference" "S45"
+		(property "Reference" "S44"
 			(at 97.79 87.63 0)
 			(effects
 				(font
@@ -19795,7 +19381,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.75u"
 			(at 97.79 95.25 0)
 			(effects
 				(font
@@ -19831,7 +19417,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S45")
+					(reference "S44")
 					(unit 1)
 				)
 			)
@@ -19847,7 +19433,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fcac33ac-93a5-442e-a9cb-1edc87a155fa")
-		(property "Reference" "S59"
+		(property "Reference" "S58"
 			(at 99.06 105.41 0)
 			(effects
 				(font
@@ -19863,7 +19449,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.00u"
 			(at 99.06 113.03 0)
 			(effects
 				(font
@@ -19899,7 +19485,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S59")
+					(reference "S58")
 					(unit 1)
 				)
 			)
@@ -19915,7 +19501,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fcf26741-2c7a-4543-8182-556da7a9e89a")
-		(property "Reference" "S30"
+		(property "Reference" "S29"
 			(at 95.25 69.85 0)
 			(effects
 				(font
@@ -19931,7 +19517,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.50u"
 			(at 95.25 77.47 0)
 			(effects
 				(font
@@ -19967,7 +19553,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S30")
+					(reference "S29")
 					(unit 1)
 				)
 			)
@@ -19983,7 +19569,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff690e2f-b35f-4bc6-8f3d-4229f7a65ac3")
-		(property "Reference" "S52"
+		(property "Reference" "S51"
 			(at 181.61 87.63 0)
 			(effects
 				(font
@@ -20035,7 +19621,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "S52")
+					(reference "S51")
 					(unit 1)
 				)
 			)
@@ -20051,7 +19637,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffd251d9-20a8-40b1-bd2c-db5791dcd626")
-		(property "Reference" "D37"
+		(property "Reference" "D36"
 			(at 182.88 82.5499 90)
 			(effects
 				(font
@@ -20123,7 +19709,7 @@
 		(instances
 			(project "keyboard"
 				(path "/59c93026-57e5-47b9-bee8-5aef0b26c03f"
-					(reference "D37")
+					(reference "D36")
 					(unit 1)
 				)
 			)
