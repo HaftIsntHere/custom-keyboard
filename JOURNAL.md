@@ -24,20 +24,27 @@ I have made multiple mistakes, like messing up the order of the switches, which 
 I have updated unrouted lines that I missed in the PCB, and fixed a few more issues.
 I also moved the OLED screen to the center, and replaced the main board from Pi Pico to ESP S3 Devkit C (took me 2 more hours).
 The new schematic and PCB look like this:
-<img width="1102" alt="image" src="https://github.com/user-attachments/assets/5df69925-81c8-4dd0-90e6-dafefc0cdf03" />
-<img width="1218" alt="image" src="https://github.com/user-attachments/assets/62ae2502-7f26-464a-9911-03c9fc4f72f5" /> <br>
+<img width="551" alt="image" src="https://github.com/user-attachments/assets/5df69925-81c8-4dd0-90e6-dafefc0cdf03" />
+<img width="609" alt="image" src="https://github.com/user-attachments/assets/62ae2502-7f26-464a-9911-03c9fc4f72f5" /> <br>
 I also added 3 macro keys, and because I moved things around everything looks slimmer and better!
 I had to reroute everything twice, and I recommend you guys to follow this rule: **Back for vertical, front for horizontal (or vise-varsa)**
 I really recommend you check your PCB multiple times before making the case, it was really tedious to redo it after editing the PCB today (I first started with case, and only then made the PCB changes so I had to redo case)
 Current case state:
-<img width="1128" alt="image" src="https://github.com/user-attachments/assets/c8dc96ba-8c8d-44b8-8238-0c6776a56f5d" />
+<img width="564" alt="image" src="https://github.com/user-attachments/assets/c8dc96ba-8c8d-44b8-8238-0c6776a56f5d" /> <br>
 I took about 2 hours for the case itself. And it's not done yet (need coloring, cutouts and a few more refinements)
 **Total time working:** 5.5 hours 
 
 # June 22nd, 2025
 I changed the PCB once again, this time making it even slimmer and not bulky
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/a92ebd0e-e31e-49f0-a5a8-c02ac49d868a" />
-<img width="1230" alt="image" src="https://github.com/user-attachments/assets/960422e9-17e4-4a94-873d-3500f9273ada" /> <br>
+<img width="530" alt="image" src="https://github.com/user-attachments/assets/3d5fbef5-3ea8-4d64-b3eb-8067ffd58abe" />
+<img width="615" alt="image" src="https://github.com/user-attachments/assets/960422e9-17e4-4a94-873d-3500f9273ada" /> <br>
 
-I'm very annoying at this point because I already changed the PCB twice and every time I have to redo the case, but, I mean, who am I to blame? The case looked bulky AF because of the PCB: <img width="849" alt="image" src="https://github.com/user-attachments/assets/9d7c984f-a6b6-47a4-a657-f6b79a7acb94" />
+I'm very annoying at this point because I already changed the PCB three times and every time I have to redo the case, but, I mean, who am I to blame? The case looked bulky AF because of the PCB: <br> <img width="425" alt="image" src="https://github.com/user-attachments/assets/9d7c984f-a6b6-47a4-a657-f6b79a7acb94" /> <br>
 This time, I'm going to make sure everything is slimmer so the keyboard doesnt look so bulky!
+Finally done with that case! You should measure 3 times before making, I messed up my measurements multiple times, but now they're perfect!
+Without switches & keycaps: <br> <img width="1121" alt="image" src="https://github.com/user-attachments/assets/42c73152-1142-4a15-a058-07a4b37d13f8" />
+ <br>
+With switches & keycaps: <br>  <img width="1144" alt="image" src="https://github.com/user-attachments/assets/6465d497-445c-4fe2-901d-dc8fe00f1c82" />
+ <br>
+
+ Now that the keyboard itself is done, all that's left is the software! Will do that tomorrow!!
