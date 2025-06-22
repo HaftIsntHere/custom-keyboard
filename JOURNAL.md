@@ -18,7 +18,7 @@ I have used this tutorial to make the PCB (of course, in an actual keyboard size
  <br>
 A fully featured keyboard PCB for a 75% keyboard, with an oled screen and a knob. Tomorrow I expect a long day as I will be designing the 3D case for it. 
 I have made multiple mistakes, like messing up the order of the switches, which took me 30 minutes to fix, accidentally connecting the screen to 3V3_EN instead of 3V3 and more.
-**Total time: 3 hours, 11 minutes**
+**Total time today:** 3 hours, 11 minutes
 
 # June 21st, 2025
 I have updated unrouted lines that I missed in the PCB, and fixed a few more issues.
@@ -32,7 +32,7 @@ I really recommend you check your PCB multiple times before making the case, it 
 Current case state:
 <img width="564" alt="image" src="https://github.com/user-attachments/assets/c8dc96ba-8c8d-44b8-8238-0c6776a56f5d" /> <br>
 I took about 2 hours for the case itself. And it's not done yet (need coloring, cutouts and a few more refinements)
-**Total time working:** 5.5 hours 
+**Total time today:** 5.5 hours 
 
 # June 22nd, 2025
 I changed the PCB once again, this time making it even slimmer and not bulky
@@ -48,3 +48,4 @@ With switches & keycaps: <br>  <img width="1144" alt="image" src="https://github
  <br>
 
  Now that the keyboard itself is done, all that's left is the software! Will do that tomorrow!!
+ **Total time today:** 8.5 hours
