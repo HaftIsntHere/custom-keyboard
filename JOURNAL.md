@@ -56,4 +56,8 @@ With switches & keycaps: <br>  <img width="1144" alt="image" src="https://github
 There wasn't much to do today. Almost everything was done and all I did was the sofware. Iran woke me up 3 hours ago (10 am) because of their missiles, and I just finished the KMK firmware.
 It was very simple and easy, I just followed the tutorial and in no time I was done!
 There isn't any picture to show today, because it was just firmware. Check it out at firmware/main.py!
+
+I also chose a new color pallete for the keyboard
+![Uploading image.png…]()
+
 **Total tiem today:** 1 hour
