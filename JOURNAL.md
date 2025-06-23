@@ -49,3 +49,8 @@ With switches & keycaps: <br>  <img width="1144" alt="image" src="https://github
 
  Now that the keyboard itself is done, all that's left is the software! Will do that tomorrow!!
  **Total time today:** 8.5 hours
+
+ # June 23rd, 2025
+There wasn't much to do today. Almost everything was done and all I did was the sofware. Iran woke me up 3 hours ago (10 am) because of their missiles, and I just finished the KMK firmware.
+It was very simple and easy, I just followed the tutorial and in no time I was done!
+There isn't any picture to show today, because it was just firmware. Check it out at firmware/main.py!
