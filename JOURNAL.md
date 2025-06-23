@@ -58,6 +58,7 @@ It was very simple and easy, I just followed the tutorial and in no time I was d
 There isn't any picture to show today, because it was just firmware. Check it out at firmware/main.py!
 
 I also chose a new color pallete for the keyboard
-![Uploading image.png…]()
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/fbf900f0-fd25-4499-85d5-57d582e85aff" />
+
 
 **Total tiem today:** 1 hour
