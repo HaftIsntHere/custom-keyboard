@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Knob cover.step',
-/* time_stamp */ '2025-06-23T13:24:26+03:00',
+/* name */ 'knob.step',
+/* time_stamp */ '2025-06-23T15:30:34+03:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -4706,7 +4706,7 @@ SOLID_ANGLE_UNIT()
 #3818=PRODUCT_DEFINITION_SHAPE('',$,#3821);
 #3819=SHAPE_REPRESENTATION('',(#163),#3811);
 #3820=PRODUCT_DEFINITION_CONTEXT('part definition',#3825,'design');
-#3821=PRODUCT_DEFINITION('2025-06-23-13-24-26-042','EC11+Encoder+Knob',
+#3821=PRODUCT_DEFINITION('2025-06-23-15-30-34-529','EC11+Encoder+Knob',
 #3822,#3820);
 #3822=PRODUCT_DEFINITION_FORMATION('',$,#3827);
 #3823=PRODUCT_RELATED_PRODUCT_CATEGORY('EC11+Encoder+Knob',
@@ -4716,7 +4716,7 @@ SOLID_ANGLE_UNIT()
 #3825=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #3826=PRODUCT_CONTEXT('part definition',#3825,'mechanical');
-#3827=PRODUCT('2025-06-23-13-24-26-042','EC11+Encoder+Knob',$,(#3826));
+#3827=PRODUCT('2025-06-23-15-30-34-529','EC11+Encoder+Knob',$,(#3826));
 #3828=PRESENTATION_STYLE_ASSIGNMENT((#3829));
 #3829=SURFACE_STYLE_USAGE(.BOTH.,#3830);
 #3830=SURFACE_SIDE_STYLE('',(#3831));
