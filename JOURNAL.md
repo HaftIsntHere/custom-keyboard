@@ -5,7 +5,9 @@ description: "My very own custom keyboard, with its own PCB!"
 created_at: "2025-06-20"
 ---
 
-> On hackatime the Fusion360 shows as <<LAST_PROJECT>> and the KiCAD shows as keyboard
+### **Total time working:** 18 hours, 11 minutes
+
+> On hackatime the Fusion360 shows as <<LAST_PROJECT>>, the KiCAD shows as keyboard, and the KMK firmware shows as firmware
 
 # June 20th, 2025
 
@@ -54,3 +56,4 @@ With switches & keycaps: <br>  <img width="1144" alt="image" src="https://github
 There wasn't much to do today. Almost everything was done and all I did was the sofware. Iran woke me up 3 hours ago (10 am) because of their missiles, and I just finished the KMK firmware.
 It was very simple and easy, I just followed the tutorial and in no time I was done!
 There isn't any picture to show today, because it was just firmware. Check it out at firmware/main.py!
+**Total tiem today:** 1 hour
