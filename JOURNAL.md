@@ -60,5 +60,16 @@ There isn't any picture to show today, because it was just firmware. Check it ou
 I also chose a new color pallete for the keyboard
 <img width="955" alt="image" src="https://github.com/user-attachments/assets/fbf900f0-fd25-4499-85d5-57d582e85aff" />
 
+**Total time today:** 1 hour
 
-**Total tiem today:** 1 hour
+# June 26th, 2025
+My keyboard just got rejected!
+And to be honest, I'm glad. The reviewer said I should look into different mounting styles, and I found out that just have 4 screw in the top isn't very..... smart lol
+I decided to use the gasket mount! Which whilst may be a little more expensive than the others, it offers exceptional sound in return and isn't that hard to install!
+I went with these poron foams for the gasket https://www.aliexpress.com/item/1005003607093794.html <br>
+<img width="546" alt="image" src="https://github.com/user-attachments/assets/68c5e58c-b49b-43e6-bb56-900472b42317" />
+<img width="1081" alt="image" src="https://github.com/user-attachments/assets/861476f5-a168-4155-8c40-3b4a87350cff" />
+This mount is way better in basically any way, and makes the keyboard look better, sound better, and feel better!
+I also added hackclub branding!
+<img width="373" alt="image" src="https://github.com/user-attachments/assets/2d69baca-8a42-496a-8f72-4c060da18f51" />
+
