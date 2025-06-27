@@ -5,7 +5,7 @@ description: "My very own custom keyboard, with its own PCB!"
 created_at: "2025-06-20"
 ---
 
-### **Total time working:** 18 hours, 11 minutes
+### **Total time working:** 20 hours, 11 minutes
 
 > On hackatime the Fusion360 shows as <<LAST_PROJECT>>, the KiCAD shows as keyboard, and the KMK firmware shows as firmware
 
@@ -68,6 +68,8 @@ And to be honest, I'm glad. The reviewer said I should look into different mount
 I decided to use the gasket mount! Which whilst may be a little more expensive than the others, it offers exceptional sound in return and isn't that hard to install!
 I went with these poron foams for the gasket https://www.aliexpress.com/item/1005003607093794.html <br>
 <img width="546" alt="image" src="https://github.com/user-attachments/assets/68c5e58c-b49b-43e6-bb56-900472b42317" />
+
+**Total time today:** 2 hours
 <img width="1081" alt="image" src="https://github.com/user-attachments/assets/861476f5-a168-4155-8c40-3b4a87350cff" />
 This mount is way better in basically any way, and makes the keyboard look better, sound better, and feel better!
 I also added hackclub branding!
