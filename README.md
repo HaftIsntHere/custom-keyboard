@@ -2,7 +2,7 @@
 This is my fully custom keyboard, fitted with a 75% layout, 2 macro keys, a knob and an oled screen!
 
 I made this project as a continuation for the hackpad, and I really wanted to know how building a real keyboard is, not just a macropad. This helped me finally understand how keyboards really work!
-<img width="957" alt="image" src="https://github.com/user-attachments/assets/7dae0414-9939-4a11-9b19-973f7396b98d" /> <br>
+<img width="1093" alt="image" src="https://github.com/user-attachments/assets/e6a743aa-69cc-44f2-b9cd-99fd17cfaf77" /> <br>
 ![image](https://github.com/user-attachments/assets/a9189c0c-3f63-4a1f-89da-568efe2e290b)
 
 ## BOM
