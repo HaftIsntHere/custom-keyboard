@@ -75,3 +75,6 @@ This mount is way better in basically any way, and makes the keyboard look bette
 I also added hackclub branding!
 <img width="373" alt="image" src="https://github.com/user-attachments/assets/2d69baca-8a42-496a-8f72-4c060da18f51" />
 
+# July 30th, 2025
+My keyboard (finally) was accepted! 
+I have ordered the keycaps and switches, but the PCB is too expensive to buy right now (gotta wait for shipping prices to go back down), and AliExpress banned my HCB card for some reason so I'm waiting to get a new one for that.
