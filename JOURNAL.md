@@ -78,3 +78,9 @@ I also added hackclub branding!
 # July 30th, 2025
 My keyboard (finally) was accepted! 
 I have ordered the keycaps and switches, but the PCB is too expensive to buy right now (gotta wait for shipping prices to go back down), and AliExpress banned my HCB card for some reason so I'm waiting to get a new one for that.
+
+
+# September 17th, 2025
+All my parts arrived today, after a 1.5 months of waiting and highway ending.
+I will be building it in a few days!
+
