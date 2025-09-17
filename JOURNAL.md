@@ -81,6 +81,8 @@ I have ordered the keycaps and switches, but the PCB is too expensive to buy rig
 
 
 # September 17th, 2025
-All my parts arrived today, after a 1.5 months of waiting and highway ending.
-I will be building it in a few days!
-
+All my parts arrived today, after a 1.5 months of waiting and highway ending.<br>
+![6EBC56DD-3694-4132-B35A-50FF13282107_1_105_c](https://github.com/user-attachments/assets/508bb58b-eb1f-4a05-8667-0634bec3626c) <br>
+I have also started work on it today, and I will try to finish it over the weekend.
+I got the diodes set up on the PCB, and that took me about an hour
+**Total time today:** 1 hour
