@@ -86,3 +86,7 @@ All my parts arrived today, after a 1.5 months of waiting and highway ending.<br
 I have also started work on it today, and I will try to finish it over the weekend.
 I got the diodes set up on the PCB, and that took me about an hour
 **Total time today:** 1 hour
+
+# September 22nd, 2025
+With the help of my dad (who majored in electronics and was soldering a lot in his youth), I have finished soldering all the diodes and sockets!
+This took us 3 hours of work. But the end result looks AMAZING from the front!
